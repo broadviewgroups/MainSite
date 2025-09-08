@@ -1,0 +1,198 @@
+Recent versions of the broadviewaa.org website in reverse chronological order
+-------------------------------------------------------------------------------------------------------------
+August 16, 2024 -- David J
+    Zoom Meetings: restored "GOSLINGS_AND_GEESE" image which was mistakenly deleted during site cleanup.
+    Seventh Tradition: changed the words "donations" and "donate" to "contributions" and "contribute",
+        respectively.
+-------------------------------------------------------------------------------------------------------------
+August 10, 2024 -- David J
+    Seventh Tradition: removed inactive Venmo QR code and updated language to
+                        inform members that the service is unavailable but 
+                        will be restored
+    Host Directory Cleanup: deleted all files not in active use by the site
+                            23 images, 1 css file
+    Site Backups taken pre- and post-update 
+-------------------------------------------------------------------------------------------------------------
+February 10, 2024
+    All pages: compressed images for decreased page load time
+    Index: removed webmaster sabbatical message; moved Serenity Prayer
+            above image
+    Seventh Tradition: removed existing money image, replaced with
+                        Venmo QR code; added direct url to venmo alongside
+                        Mighty Cause link
+    (changes by David J)
+-------------------------------------------------------------------------------------------------------------
+August 27, 2023
+    Events: Removed picnic poster; Congratulations 1st and 4th place pie eaters.
+	Index: Gave notice of webmaster's SABBATICAL.
+-------------------------------------------------------------------------------------------------------------
+August 4, 2023
+    Events: Added text description of annual picnic.
+-------------------------------------------------------------------------------------------------------------
+June 7, 2023
+    Events: New picture of Phoenix Club's interior - red, white, and blue for summer holidays.
+    Frequently Asked Questions: removed a typo.
+-------------------------------------------------------------------------------------------------------------
+May 29, 2023
+	Events: Removed poster for BBQ.
+	Frequently Asked Questions: Revised entire page based on suggestions from members.
+-------------------------------------------------------------------------------------------------------------
+May 15, 2023
+    Events: Added poster for BBQ on Memorial Day.
+	Frequently Asked Questions:
+	Removed question about Phoenix Club, awaiting re-write.
+-------------------------------------------------------------------------------------------------------------
+April 3, 2023
+	In-Person meetings: Changed picture to APRIL_DECORATIONS.jpeg
+-------------------------------------------------------------------------------------------------------------
+March 17, 2023
+	Zoom meetings: Removed Saturday 7:00 am Wakeup.
+	In-Person meetings: Daylight Savings time is back. Changed picture to MARCH_2023_DECORATIONS.jpeg
+-------------------------------------------------------------------------------------------------------------
+Jan 2, 2023
+	Index: Removed ref to alcathon.
+	In-Person meetings: New picture with new year decorations.  Can start a new year any time!
+	Events: Removed alcathon poster.
+	About: Text change.
+-------------------------------------------------------------------------------------------------------------
+December 27, 2022
+	Index: New Year Alcathon links.
+	Events: Changed poster to New Year alcathon.
+	About This Website: Changed last option to RSV.
+-------------------------------------------------------------------------------------------------------------
+December 3, 2022
+	Index: Christmas Alcathon links.
+	Events: Added poster for Christmas alcathon.
+-------------------------------------------------------------------------------------------------------------
+November 27, 2022
+       Events: remove Thanksgiving poster and comments.
+	   In-Person meetings:  As Bill Sees It is on hold.
+-------------------------------------------------------------------------------------------------------------
+November 17, 2022
+      Events: Add Thanksgiving poster, Thanksgiving_2022.jpg
+	  Zoom meetings: Remove Sunday 7:00 am.
+-------------------------------------------------------------------------------------------------------------
+Nov.4, 2022
+      Zoom meetings: fall back to winter GMT-8
+      Events: Thanksgiving party comments.
+      In-Person Meetings: Add Saturday nooner.
+-------------------------------------------------------------------------------------------------------------
+Nov. 1, 2022 
+      Events: Remove Haloween. No scheduled events.  Tree picture.
+-------------------------------------------------------------------------------------------------------------
+October 29, 2022
+      Events: Halloween party is in past tense.
+      Index: Removed Haloween party link.
+-------------------------------------------------------------------------------------------------------------
+October 27, 2022
+     ZOOM Meetings: Removed Wednesday noon.
+-------------------------------------------------------------------------------------------------------------
+October 25, 2022
+     Events:  More comments about Halloween party, including a very scary deliberate circular reference.
+-------------------------------------------------------------------------------------------------------------
+October 15, 2022
+     In-Person Meetings: Newer picture of the club.
+	 Events: Added more pictures.
+-------------------------------------------------------------------------------------------------------------
+October 12, 2022
+     Events: Added Halloween party; removed picnic.
+	 ZOOM Meetings: Removed "on hold" comment for Wednesday noon.
+-------------------------------------------------------------------------------------------------------------
+August 22, 2022
+    Zoom Meetings: corrections:
+	    Sunday - removed As Bill Sees It and 12x12
+		Monday - removed Emotional Sobriety
+		Wednesday - Marked BV Nooner as on hold until Aug. 31.
+		Saturday - removed Many Paths North
+-------------------------------------------------------------------------------------------------------------
+August 11, 2022
+    index: Removed an announcement.
+    Events: added address of Cromwel Park.
+    In-Person Meetings: added Fox Hunters meeting.
+-------------------------------------------------------------------------------------------------------------
+July 28, 2022
+	index: Changed announcements 
+	events: Cromwel Park Picnic
+	Zoom meetings: Remove Freedom from Bondage
+	LiveMeetings: Women's Circle Wed 7pm-8pm replaces Freedom from Bondage
+-------------------------------------------------------------------------------------------------------------
+June 25, 2022
+	index: replaced announcements -- zoom speaker meeting + barbecue
+	events: July 4 barbecue
+-------------------------------------------------------------------------------------------------------------
+June 12, 2022
+	index: removed old news.
+	In-Person Meetings: removed Tuesday evening
+	GSR Board - removed page from all menus and website.
+	Frequently asked questions - updated.
+-------------------------------------------------------------------------------------------------------------
+June 5, 2022
+     In-Person Meetings: Put picture PHOENIX_CLUB_INTERIOR.jpg at the top.
+	 Moved the picture of the geese to the ZOOM Meetings page.
+-------------------------------------------------------------------------------------------------------------
+June 3, 2022
+     index: expanded the thank you message.
+	 In-Person Meetings: Listed meetings in column; removed image of spreadsheet.
+	 Seventh Tradition: added an option for donating at in-person meetings. Changed picture.
+	 ZOOM Meetings: Removed picture. Removed "needs support" and asterisks.
+	 Location: Aerial view picture now shows parking area.
+-------------------------------------------------------------------------------------------------------------
+May 31, 2022
+     New page IN-PERSON MEETINGS; added to the menu on all pages. Contains image showing open secretary 
+	     positions.
+     index: corrected typo in thank you message.
+	 Changed file name Meetings.html to ZoomMeetings.html.
+-------------------------------------------------------------------------------------------------------------
+May 20, 20022
+    index: Removed previous announcement. Added request for continuation of ZOOM service until June 30, 2022.
+	all pages: Changed a menu item MEETINGS to ZOOM MEETINGS. Changed Group to Groups in page titles 
+	(on the tabs).
+	
+	Frequently asked questions: Removed outdated paragraph from Phoenix Club president's message, since we
+	have already taken possession and unloaded the storage pod.
+	
+	Seventh Tradition: Shortened, as we no longer pay storage.
+-------------------------------------------------------------------------------------------------------------
+April 21, 2022
+     Meetings: Remove Monday Noon meeting.
+-------------------------------------------------------------------------------------------------------------
+April 12, 2022
+     Location: Replaced picture with a very clear map.  Thanks be to anon for drawing the map!!!
+-------------------------------------------------------------------------------------------------------------
+April 11,2022
+    index: changed thie link in the announncement to point to Frequently Asked Questions, not Events.
+	Events: revert back to nothing scheduled.
+	Frequently Asked Questions: Included Madam President's Facebook posting as answer to "What's going on
+    with the Phoenix Club? Also, removed UBI question and 'What is the Difference' question.
+-------------------------------------------------------------------------------------------------------------
+April 9, 2022
+   index: Added announcement r.e. new location
+   Location: Added new address and a bad photo. Removed previous content.
+   Events: Added a list of "likely" events.  Some are more likely than others.  Dates will change as
+   more is revealed.
+   Frequently Asked Questions: "These are interesting times rather than normal times."
+   Meetings: Removed * from Emotional Sobriety.  Come Monday to see who stepped up and to thank them! 
+-------------------------------------------------------------------------------------------------------------
+March 31, 2022
+   Meetings: Removed Friday As Mikey C's It.
+-------------------------------------------------------------------------------------------------------------
+March 29, 2022
+   Add BWBBS to meetings page, with its own unique id and passcode. Also, As Mikey C's it Fridays.
+-------------------------------------------------------------------------------------------------------------
+March 23, 2022
+Meetings:
+   Modify definition of Seattle Time -- daylight savings for ever and ever, amen.
+   Mark the meetings that need support and/or have open service positions.
+index:
+   Add an announcement at the top with link to Meetings page.
+-------------------------------------------------------------------------------------------------------------
+March 10, 2022
+index: remove announcement
+Meetings: remove Friday noon meeting. Also corrected a font weight error for second half of page.
+    Also mentioned upcoming daylight savings time.
+Events: removed 2021 Christmas alkathon.
+GSR Board: Removed all text, leaving only our GSR's dog Loki's picture.
+-------------------------------------------------------------------------------------------------------------
+February 19,2022:
+  Meetings: Friday noon meeting needs new (secretary/zoom host) without which it will be no more.
+-------------------------------------------------------------------------------------------------------------

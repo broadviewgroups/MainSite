@@ -1,0 +1,266 @@
+@import "reset.css";
+
+/*
+smokyBlack 191308
+vanDyke 322a26
+delftBlue 454b66
+glaucous 677db7
+vistaBlue 9ca3db
+*/
+
+html { 
+    font-size: 100%;
+    font-family: arial, sans-serif;
+}
+main, div, img { box-sizing: border-box }
+
+body { 
+    background-color: rgba(255,250,250, 1);
+    color: rgba(50, 42, 38, 1);
+}
+
+main {
+    width: 100vw;
+    max-width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width: 650px) {
+    #pageWrapper { width: 80vw }
+}
+
+@media (max-width: 649px) {
+    #pageWrapper { width: 95vw }
+}
+
+#pageWrapper {
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2vh 5vw;
+}
+
+#pageWrapper > div { width: 100%; margin: 10px 0; }
+
+h1.title {
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: center;
+    color: rgba(69, 75, 102, 1);
+}
+
+nav.nav { width: 100%; text-align: center; }
+
+li.nav {
+    display: inline-block;
+    padding: 5px 3px;
+    color: rgba(103, 125, 183, 1);
+}
+
+li.nav a { text-decoration: none }
+li.nav a:link, li.nav a:visited { color: inherit }
+li.nav:hover {
+    background-color: rgba(103, 125, 183, 1);
+    border-radius: 0.313rem;
+    color: rgba(255,250,250, 1);
+}
+
+#navWrapper {
+    border-bottom: thin dotted #322a26;
+    padding-bottom: 2vh;
+}
+
+#serenityWrapper, #seventhWrapper, .sectionWrap {
+    width: 100%; 
+    padding-top: 1vh;
+}
+
+section.serenity, section.seventh, .sectionWrap { padding-bottom: 2vh }
+
+section.seventh { 
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#serenityPrayer {
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 1.25em;
+}
+
+#serenityImage, #theHall, #mapImage, #coffeePot,
+.eventsImg, #contactsImg, #aboutImgWrap > img { max-width: 100% }
+
+#broadviewSeventh > * { padding: 1vh 0 }
+
+#broadviewSeventh > ol {
+    list-style-type: circle;
+    margin-left: 3vw;
+}
+
+#broadviewSeventh li { padding: 0.5vh 0 }
+
+#schedOuterWrap {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.schedule {
+    display: flex;
+    justify-content: center;
+}
+
+#schedInnerWrap {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+@media (min-width: 650px) {
+    .dayWrap {
+        display: grid;
+        grid-template-columns: 10% auto;
+        gap: 0.5rem;
+    }
+    .day {
+        justify-content: right;
+        text-align: right;
+        border-top: 1px solid rgba(220, 220, 220, 1);
+        border-bottom: 1px solid rgba(220, 220, 220, 1);
+    }
+    .mtgWrap { grid-template-columns: repeat(3, max-content) }
+}
+
+@media (max-width: 649px) {
+    .dayWrap {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .day {
+        justify-content: left;
+        text-align: left;
+    }
+    .pageBlurb { flex-direction: column }
+    .mtgWrap { grid-template-columns: repeat(2, max-content) }
+}
+
+.dayWrap, .mtgWrap { max-width: 100% }
+
+.day {
+    display: flex;
+    font-weight: bold;
+    font-size: 0.9rem;
+    color: rgba(47, 79, 79, 1);
+}
+
+.dayInner { margin: auto 0 }
+
+.mtgWrap {
+    display: grid;
+    gap: 0.2rem 0.1rem;
+}
+
+.meeting {
+    font-size: 0.8rem;
+    background-color: rgba(220, 220, 220, 0.5);
+    border-radius: 0.313rem;
+    padding: 0.25rem 0.75rem 0.25rem 0.5rem;
+    align-content: center;
+    max-width: 100%;
+}
+
+.meeting > p, .pageBlurb p {
+    line-height: 1.25;
+}
+
+.pageBlurb {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+#zoomLongDistance b { font-weight: bold }
+
+#mapPhoenix {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    justify-content: center;
+}
+
+#mapPhoenix > div { margin: 1rem auto; }
+
+#mapPhoenix > .imgText > h1 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#faqContent {
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2.75fr 1.25fr;
+    gap: 1.5rem;
+}
+
+#faqWrapper, .qaWrap {
+    display: flex;
+    flex-direction: column;
+}
+
+#faqWrapper { gap: 1.2rem }
+
+.qaWrap {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    line-height: 1.2;
+}
+
+#coffeePotWrapper { align-content: center }
+
+#eventsWrapper > div {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#eventsText {
+    text-align: center;
+    line-height: 1.2;
+}
+
+#eventsImages {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 1.5rem;
+}
+
+#contactsContent, #aboutContent {
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto 45%;
+    gap: 1.5rem;
+}
+
+#contactsText, #aboutDesc, #aboutImgTxt { line-height: 1.2 }
+
+#contactsText > p, #aboutDesc > p, #aboutImgTxt > p { margin: 1rem 0 }
+
+#aboutImgTxt > ol {
+    list-style-type: lower-alpha;
+    margin-left: 2rem;
+}
